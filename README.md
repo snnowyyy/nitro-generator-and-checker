@@ -32,9 +32,11 @@ A. Because you have to be patient for the generator because it generator random 
 Q. Why does it keep closing when i open?
 
 A. Do you have python, and it has to be added to path.
+
 Q. Why are there 2 files to download?
 
 A. Because oen file has no checker for the code and one do.
+
 Q. Why are there testing files?
 
 A. because testing files generates slower the the none testing ones.
