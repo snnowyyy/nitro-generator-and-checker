@@ -1,2 +1,6 @@
-# nitro-gen-and-checker
-This is a nitro generator with checker. It is a python script but a exe i mad it a exe so you cant have my code :). 1. Nitro gen is one without checker 2. Nitro gen premium is one with checker
+# nitro-gen-and-checker read me
+
+# info
+This is a Nitro Generator with checker. This is free! I made it in about 5 days. If you gave this 5 stars that would be awesome! Its a exe file because i did not want you to see my code. It takes a little to start up!
+
+# setup go to 
